@@ -1,0 +1,13 @@
+<div class="input-group mb-3">
+  <input 
+    type="text" 
+    class="form-control" 
+    [(ngModel)]="newTodo" 
+    placeholder="Add a new todo" 
+    aria-label="Todo">
+  <button 
+    class="btn btn-light text-primary" 
+    (click)="onAddClick()">
+    Add
+  </button>
+</div>

@@ -1,0 +1,25 @@
+.card {
+    border-radius: 12px;
+    overflow: hidden;
+  }
+  
+  .card-header {
+    background-color: #4a90e2;
+  }
+  
+  .list-group-item-success {
+    background-color: #e3f2fd; 
+  }
+  
+  .list-group-item-danger {
+    background-color: #ffebee;
+  }
+  
+  .btn-success {
+    background-color: #2ecc71; 
+  }
+  
+  .btn-danger {
+    background-color: #e74c3c; 
+  }
+  
